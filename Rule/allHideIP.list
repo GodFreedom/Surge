@@ -17,8 +17,18 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biligame.com
 IP-CIDR,203.107.1.0/24,REJECT
-DOMAIN, api.weibo.cn
-DOMAIN, api.weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-KEYWORD,weibo
+DOMAIN,tieba.baidu.com
+DOMAIN,tbmsg.baidu.com
+DOMAIN,tb5.bdstatic.com
+DOMAIN,fclog.baidu.com
+DOMAIN,gsp0.baidu.com
+DOMAIN,hm.baidu.com
+DOMAIN,www.baidu.com
+DOMAIN,tiebac.baidu.com
 DOMAIN,u6.y.qq.com //ios qq音乐评论
 DOMAIN,szshort.weixin.qq.com
 DOMAIN,szextshort.weixin.qq.com
