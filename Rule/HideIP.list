@@ -1,0 +1,4 @@
+DOMAIN, api.weibo.cn //ios 微博评论
+DOMAIN, mp.weixin.qq.com //ios 微信公众号评论
+DOMAIN, api.bilibili.com //ios b站评论
+DOMAIN,u6.y.qq.com //ios qq音乐评论
