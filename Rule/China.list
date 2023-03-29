@@ -4,11 +4,15 @@ DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net // Origin Download
+DOMAIN-SUFFIX,eastmoney.com
 # ---(Microsoft)---
+
 # > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,imap-mail.outlook.com
+
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
