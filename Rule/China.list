@@ -13,6 +13,10 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,outlook.office365.com
 DOMAIN,imap-mail.outlook.com
 
+# > qq mail
+DOMAIN-SUFFIX,imap.qq.com
+DOMAIN-SUFFIX,smap.qq.com
+
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
